@@ -1,10 +1,10 @@
 export const SITE = {
-	name: 'SPINX',
+	name: 'Spinx',
 
-	origin: 'https://spinx.vercel.app',
+	origin: 'https://Spinx.vercel.app',
 	basePathname: '/',
 
-	title: 'SPINX',
+	title: 'Spinx',
 	description: '🚀 Spinx is a free and ready to start discord bot developement tool to fit every servers needs.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
