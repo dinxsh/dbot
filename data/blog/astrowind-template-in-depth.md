@@ -1,10 +1,10 @@
 ---
-publishDate: "Aug 08 2022"
-title: "Spinx template in depth"
-description: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
+publishDate: "Oct 28 2022"
+title: "Getting Started with spinx"
+description: "How to use spinx to fullfill and bot dev sand make your own custom bot for absolutely free."
 image: "~/assets/images/hero.jpg"
 category: "Tutorials"
-tags: [astro, tailwind css, front-end]
+tags: [get-started, beginner, discord-bot]
 ---
 
 ## Dictum integer fusce ac ridiculus et odio sollicitudin diam at
