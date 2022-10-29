@@ -3,6 +3,7 @@ import { fileURLToPath } from 'url';
 
 import { defineConfig } from 'astro/config';
 
+import react from '@astrojs/react';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 import image from '@astrojs/image';
@@ -12,6 +13,7 @@ import partytown from '@astrojs/partytown';
 import { remarkReadingTime } from './src/utils/frontmatter.js';
 
 import { SITE } from './src/config.mjs';
+import React from 'react';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -22,8 +24,8 @@ export default defineConfig({
 	base: SITE.basePathname,
 
 	output: 'static',
-
 	integrations: [
+		react(),
 		tailwind({
 			config: {
 				applyBaseStyles: false,
