@@ -7,7 +7,7 @@ export const SITE = {
 	title: 'Spinx',
 	description: '🚀 Spinx is a free and ready to start discord bot developement tool to fit every servers needs.',
 
-	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
+	googleAnalyticsId: "G-9MLSQGX2EQ", // or "false",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
 };
 
